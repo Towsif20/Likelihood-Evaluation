@@ -1,0 +1,4 @@
+TotalLength	9550528
+Total unmapped Read Count : 2480
+min read Lendth 35
+max read Lendth 36604
